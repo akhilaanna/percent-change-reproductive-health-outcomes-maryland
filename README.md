@@ -18,11 +18,11 @@ It is [known](https://www.ncbi.nlm.nih.gov/books/NBK219236/) that teenage pregna
       - [SHIP Babies with Low Birth Weight 2010-2017](https://opendata.maryland.gov/Health-and-Human-Services/SHIP-Babies-with-Low-Birth-Weight-2010-2017/cyet-5jd3)
 
 ## Data Analysis Method
-Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX?usp=sharing)
+Percent Change in the three selected variables: [Python/Google Colaboratory](https://colab.research.google.com/drive/1QUmTvWJn7qQ4KBY9saS84pE6xG56tdcX?usp=sharing) (same link as above)
 
 ## Overview of Data Findings 
 
-Several counties within Maryland displayed relatively high teen birth rates, high low birth weight, and low early prenatal care based on the trends, percent change, and cluster analyses, but emphasis for improvement can be placed to Prince George's, Garrett, and Somerset Counties.
+Several counties within Maryland displayed relatively high teen birth rates, high low birth weight, and low early prenatal care based on the percent change, but emphasis for improvement can be placed to Prince George's, Garrett, and Somerset Counties.
 
 ## Data Visualization 
 
